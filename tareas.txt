@@ -1,1 +1,3 @@
 hola profe como te va todo bien?
+
+fix-detalle
