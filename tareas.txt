@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hola profe como te va todo bien?
 
 awdsawds
+=======
+hola profe como te va todo bien
+
+oaaaa que pro hermano :v
+>>>>>>> feature-login
